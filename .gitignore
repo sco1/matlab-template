@@ -1,0 +1,20 @@
+# Temporary files & Autosave
+*.asv
+*.m~
+*.autosave
+*.slxc
+
+# Saved objects
+*.mat
+*.fig
+
+# Compiled Binaries & Packages
+*.mex*
+*.mlappinstall
+*.mltbx
+
+# Code Generation
+codegen/
+slprj/
+sccprj/
+helpsearch*/
